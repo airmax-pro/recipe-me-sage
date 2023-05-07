@@ -5272,6 +5272,15 @@ __metadata:
   languageName: node
   linkType: hard
 
+"bootstrap@npm:v5.2.3":
+  version: 5.2.3
+  resolution: "bootstrap@npm:5.2.3"
+  peerDependencies:
+    "@popperjs/core": ^2.11.6
+  checksum: 4f932ad166b04ce475199508301b4f0fb94df41146cf07596834e60af6f229ce0edc701d6c50806988fb5c547f1dadc3ca3372b929ba7eb9e4aba36e5450a013
+  languageName: node
+  linkType: hard
+
 "bowser@npm:^2.11.0":
   version: 2.11.0
   resolution: "bowser@npm:2.11.0"
@@ -10982,6 +10991,7 @@ __metadata:
     "@roots/bud": "npm:6.8.0"
     "@roots/bud-tailwindcss": "npm:6.8.0"
     "@roots/sage": "npm:6.8.0"
+    bootstrap: "npm:v5.2.3"
   languageName: unknown
   linkType: soft
 

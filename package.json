@@ -22,5 +22,8 @@
     "@roots/bud": "6.8.0",
     "@roots/bud-tailwindcss": "6.8.0",
     "@roots/sage": "6.8.0"
+  },
+  "dependencies": {
+    "bootstrap": "v5.2.3"
   }
 }
