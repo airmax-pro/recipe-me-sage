@@ -5,3 +5,10 @@
 .budfiles
 npm-debug.log
 yarn-error.log
+
+# Manually added files
+.yarnrc.yml
+.yarn
+
+.pnp.cjs
+.pnp.loader.mjs
